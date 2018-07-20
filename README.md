@@ -3,8 +3,8 @@
 # Nginx Proxy Manager
 
 ![Version](https://img.shields.io/badge/version-1.1.2-green.svg?style=for-the-badge)
-![Stars](https://img.shields.io/docker/stars/jc21/nginx-proxy-manager.svg?style=for-the-badge)
-![Pulls](https://img.shields.io/docker/pulls/jc21/nginx-proxy-manager.svg?style=for-the-badge)
+![Stars](https://img.shields.io/docker/stars/tursoft/nginx-proxy-manager.svg?style=for-the-badge)
+![Pulls](https://img.shields.io/docker/pulls/tursoft/nginx-proxy-manager.svg?style=for-the-badge)
 
 This project comes as a pre-built docker image that enables you to easily forward to your websites
 running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
